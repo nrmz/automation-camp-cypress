@@ -1,0 +1,23 @@
+{
+  "name": "automationcamp-cypress",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nrmz/automation-camp-cypress.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nrmz/automation-camp-cypress/issues"
+  },
+  "homepage": "https://github.com/nrmz/automation-camp-cypress#readme",
+  "devDependencies": {
+    "cypress": "^13.6.1"
+  }
+}
