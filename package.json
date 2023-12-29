@@ -19,5 +19,8 @@
   "homepage": "https://github.com/nrmz/automation-camp-cypress#readme",
   "devDependencies": {
     "cypress": "^13.6.1"
+  },
+  "dependencies": {
+    "cypress-real-events": "^1.11.0"
   }
 }
