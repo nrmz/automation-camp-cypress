@@ -49,11 +49,11 @@ describe('session4', () => {
     // })
 
 
-    it("6- Use for debugging", () => {
-            cy.visit("https://play2.automationcamp.ir/index.html");
-            cy.get("#fname").type("Cypress").then((el) => {
-                let input_value =  el.val();
-                expect(input_value).to.eq("Cypres")
-            });
-    })
+    // it("6- Use for debugging", () => {
+    //         cy.visit("https://play2.automationcamp.ir/index.html");
+    //         cy.get("#fname").type("Cypress").then((el) => {
+    //             let input_value =  el.val();
+    //             expect(input_value).to.eq("Cypres")
+    //         });
+    // })
 })
